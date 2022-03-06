@@ -1,7 +1,7 @@
 package powerpackage;
 
 
-import org.junit.Test;
+import org.junit.test;
 
 public class powertest {
     @Test
