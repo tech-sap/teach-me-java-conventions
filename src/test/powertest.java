@@ -3,7 +3,7 @@ package powerpackage;
 
 import org.junit.test;
 
-public class powertest {
+public class Powertest {
     @Test
     public void one_raised_to_one_is_onew() {
         assert powerfinder.OF(1,1) == 1;
